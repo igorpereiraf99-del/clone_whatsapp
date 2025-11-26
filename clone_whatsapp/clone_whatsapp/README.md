@@ -1,0 +1,1 @@
+Clone do WhatsApp em React Native pronto para avaliação.
